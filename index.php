@@ -17,11 +17,11 @@
 	<?php
 
 	// User-defined settings
-	$title = 'Photocrumbs';
+	$title = 'Greenway Photocrumbs';
 	$footer='Powered by <a href="https://github.com/dmpop/photocrumbs">Photocrumbs</a>';
 	$expire = false; //set to true to enable the expiration feature
 	$days = 15; // expiration period
-	$log = false; //set to true to enable ip logging
+	$log = true; //set to true to enable ip logging
 	// ----------------------------
 
 	// Create the required directories if they don't exist
